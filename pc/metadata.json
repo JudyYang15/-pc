@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Edge Swipe Recommendation Simulator",
+  "description": "An interactive smartphone mockup simulating edge-swipe gestures to trigger highly personalized 'Guess You Like' news recommendation feeds, featuring real-time sensitivity controls, content categorization, and micro-interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
